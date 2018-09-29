@@ -1,0 +1,1124 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X            XX                                              X
+X                                                            X
+X                                                            X
+X                                                    XX      X
+X                                                          G0X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+Initial solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X      G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0            X
+XG0    G0G0  G0G0G0G0  G0    G0G0G0    G0G0G0  G0  G0  G0    X
+XG0G0G0G0  G0  G0G0G0    G0G0G0G0G0G0  G0G0G0  G0G0  G0G0    X
+X  G0G0G0G0G0  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0  X
+XG0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0    G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0  X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0XXG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0X
+XG0  G0  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0XXG0G0G0X
+XG0  G0G0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0G0G0G0G0X
+XG0  G0    G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0      G0  G0G0G0G0G0G0G0  G0  G0G0G0G0G0G0G0G0G0  G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0    G0G0G0  G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+X          G0      G0  G0            G0G0G0  G0G0G0          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+Begin TabuSearch with memory 5 and for 10 iterations
+Initial solution has a fitness of : 20370
+Best solution has a fitness of : 20370
+Iteration 0Best solution has a fitness of : 20370
+Iteration 1Best solution has a fitness of : 20370
+New solution found with a fitness of : 19532
+Iteration 2Best solution has a fitness of : 19532
+New solution found with a fitness of : 19436
+Iteration 3Best solution has a fitness of : 19436
+New solution found with a fitness of : 19276
+Iteration 4Best solution has a fitness of : 19276
+Iteration 5Best solution has a fitness of : 19276
+New solution found with a fitness of : 18731
+Iteration 6Best solution has a fitness of : 18731
+Iteration 7Best solution has a fitness of : 18731
+New solution found with a fitness of : 18592
+Iteration 8Best solution has a fitness of : 18592
+New solution found with a fitness of : 18432
+Iteration 9Best solution has a fitness of : 18432
+
+Final solution of Tabu Search
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X      G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0          X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+X  G0G0G0G0G0G0G0G0      G0    G0G0G0G0G0G0  G0G0  G0G0      X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    G0  X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0  G0G0G0    G0G0G0G0G0G0  G0G0G0G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0  G0G0G0  G0G0G0G0G0G0G0G0  G0G0X
+XG0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X    G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0X
+X  G0      G0XXG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0XXG0G0G0X
+X      G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0  G0G0G0  G0X
+X  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  X
+XG0G0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0  G0    X
+X    G0  G0G0G0G0    G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+X          G0      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Tabu Search
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X            XX                                              X
+X                                                            X
+X                                                            X
+X                                                    XX      X
+X                                                          X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[749, 179, 853, 272, 157, 62, 626, 815, 378, 437, 16, 449, 441, 695, 218, 628, 559, 855, 767, 892, 495, 462, 832, 288, 521, 424, 700, 743, 264, 430, 502, 415, 504, 820, 204, 266, 370, 120, 765, 707, 100, 553, 146, 274, 38, 230, 640, 232, 630, 373, 570, 278, 216, 847, 538, 579, 320, 787, 771, 888, 250, 256, 13, 55, 718, 276, 843, 839, 587, 376, 762, 21, 113, 572, 867, 388, 564, 326, 435, 841, 698, 690, 506, 170, 875, 338, 97, 555, 184, 827, 645, 544, 314, 322, 328, 456, 647, 649, 484, 336, 397, 3, 360, 190, 752, 780, 172, 118, 566, 165, 381, 511, 711, 240, 702, 799, 469, 760, 709, 835, 392, 132, 49, 881, 653, 23, 312, 451, 577, 612, 894, 662, 447, 110, 30, 77, 316, 497, 5, 354, 310, 489, 224, 95, 332, 10, 413, 122, 776, 206, 638, 778, 561, 890, 300, 651, 635, 879, 755, 334, 222, 228, 268, 705, 57, 105, 181, 749]
+[749, 179, 853, 272, 157, 62, 626, 815, 378, 437, 16, 449, 441, 695, 218, 628, 559, 855, 767, 892, 495, 462, 832, 288, 521, 424, 700, 743, 264, 430, 502, 415, 504, 820, 204, 266, 370, 120, 765, 707, 100, 553, 146, 274, 38, 230, 640, 232, 630, 373, 570, 278, 216, 847, 538, 579, 320, 787, 771, 888, 250, 256, 13, 55, 718, 276, 843, 839, 587, 376, 762, 21, 113, 572, 867, 388, 564, 326, 435, 841, 698, 690, 506, 170, 875, 338, 97, 555, 184, 827, 645, 544, 314, 322, 328, 456, 647, 649, 484, 336, 397, 3, 360, 190, 752, 780, 172, 118, 566, 165, 381, 511, 711, 240, 702, 799, 469, 760, 709, 835, 392, 132, 49, 881, 653, 23, 312, 451, 577, 612, 894, 662, 447, 110, 30, 77, 316, 497, 5, 354, 310, 489, 224, 95, 332, 10, 413, 122, 776, 206, 638, 778, 561, 890, 300, 651, 635, 879, 755, 334, 222, 228, 268, 705, 57, 105, 181, 749]
+[749, 179, 853, 272, 157, 62, 626, 815, 378, 437, 16, 449, 441, 695, 218, 628, 559, 855, 767, 892, 495, 462, 832, 288, 521, 424, 700, 743, 264, 430, 502, 415, 504, 820, 204, 266, 370, 120, 765, 707, 100, 553, 146, 274, 38, 230, 640, 232, 630, 373, 570, 278, 216, 847, 538, 579, 320, 787, 771, 888, 250, 256, 13, 55, 718, 276, 843, 839, 587, 376, 762, 21, 113, 572, 867, 388, 564, 326, 435, 841, 698, 690, 506, 170, 875, 338, 97, 555, 184, 827, 645, 544, 314, 322, 328, 456, 647, 649, 484, 336, 397, 3, 360, 190, 752, 780, 172, 118, 566, 165, 381, 511, 711, 240, 702, 799, 469, 760, 709, 835, 392, 132, 49, 881, 653, 23, 312, 451, 577, 612, 894, 662, 447, 110, 30, 77, 316, 497, 5, 354, 310, 489, 224, 95, 332, 10, 413, 122, 776, 206, 638, 778, 561, 890, 300, 651, 635, 879, 755, 334, 222, 228, 268, 705, 57, 105, 181, 749]
+
+Begin simulatedAnnealing with initial Energy 1000 and for 
+Initial solution has an energy of : 20370
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 20834
+We take this solution
+Try to find a solution
+solution has an energy of : 21313
+We take this solution
+solution has an energy of : 20834
+We take this solution
+Try to find a solution
+solution has an energy of : 20517
+We take this solution
+solution has an energy of : 20818
+We take this solution
+solution has an energy of : 20068
+We take this solution
+Try to find a solution
+solution has an energy of : 20200
+We take this solution
+solution has an energy of : 20052
+We take this solution
+Try to find a solution
+solution has an energy of : 19373
+We take this solution
+solution has an energy of : 20052
+We take this solution
+solution has an energy of : 20048
+We take this solution
+Try to find a solution
+solution has an energy of : 20000
+We take this solution
+Try to find a solution
+solution has an energy of : 19744
+We take this solution
+solution has an energy of : 19474
+We take this solution
+Try to find a solution
+solution has an energy of : 19824
+We take this solution
+solution has an energy of : 19474
+We take this solution
+Try to find a solution
+solution has an energy of : 19387
+We take this solution
+solution has an energy of : 19314
+We take this solution
+Try to find a solution
+solution has an energy of : 18752
+We take this solution
+solution has an energy of : 19314
+We take this solution
+solution has an energy of : 19655
+We take this solution
+Try to find a solution
+solution has an energy of : 19503
+We take this solution
+Try to find a solution
+solution has an energy of : 19503
+We take this solution
+solution has an energy of : 19842
+We take this solution
+Try to find a solution
+solution has an energy of : 19842
+We take this solution
+solution has an energy of : 19456
+We take this solution
+Try to find a solution
+solution has an energy of : 19208
+We take this solution
+Try to find a solution
+solution has an energy of : 19200
+We take this solution
+Try to find a solution
+solution has an energy of : 19428
+We take this solution
+solution has an energy of : 19200
+We take this solution
+solution has an energy of : 19846
+We take this solution
+Try to find a solution
+solution has an energy of : 19846
+We take this solution
+Try to find a solution
+solution has an energy of : 19846
+We take this solution
+Try to find a solution
+solution has an energy of : 19229
+We take this solution
+Try to find a solution
+solution has an energy of : 18543
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 18756
+We take this solution
+Try to find a solution
+solution has an energy of : 19326
+We take this solution
+solution has an energy of : 18692
+We take this solution
+solution has an energy of : 20642
+We take this solution
+Try to find a solution
+solution has an energy of : 20578
+We take this solution
+solution has an energy of : 19614
+We take this solution
+Try to find a solution
+solution has an energy of : 20142
+We take this solution
+solution has an energy of : 19494
+We take this solution
+solution has an energy of : 19918
+We take this solution
+Try to find a solution
+solution has an energy of : 19918
+We take this solution
+Try to find a solution
+solution has an energy of : 19990
+We take this solution
+solution has an energy of : 19734
+We take this solution
+Try to find a solution
+solution has an energy of : 19734
+We take this solution
+Try to find a solution
+solution has an energy of : 19261
+We take this solution
+solution has an energy of : 19702
+We take this solution
+Try to find a solution
+solution has an energy of : 19702
+We take this solution
+Try to find a solution
+solution has an energy of : 19595
+We take this solution
+solution has an energy of : 19486
+We take this solution
+solution has an energy of : 18710
+We take this solution
+Try to find a solution
+solution has an energy of : 19328
+We take this solution
+solution has an energy of : 18654
+We take this solution
+Try to find a solution
+solution has an energy of : 18827
+We take this solution
+solution has an energy of : 18590
+We take this solution
+solution has an energy of : 19031
+We take this solution
+Try to find a solution
+solution has an energy of : 18174
+We take this solution
+solution has an energy of : 18815
+We take this solution
+Try to find a solution
+solution has an energy of : 18735
+We take this solution
+Try to find a solution
+solution has an energy of : 18727
+We take this solution
+solution has an energy of : 17665
+We take this solution
+Try to find a solution
+solution has an energy of : 17497
+We take this solution
+Try to find a solution
+solution has an energy of : 17497
+We take this solution
+Try to find a solution
+solution has an energy of : 18339
+We take this solution
+solution has an energy of : 17489
+We take this solution
+Try to find a solution
+solution has an energy of : 17489
+We take this solution
+Try to find a solution
+solution has an energy of : 17489
+We take this solution
+solution has an energy of : 17646
+We take this solution
+Try to find a solution
+solution has an energy of : 17752
+We take this solution
+solution has an energy of : 17646
+We take this solution
+Try to find a solution
+solution has an energy of : 17646
+We take this solution
+Try to find a solution
+solution has an energy of : 16729
+We take this solution
+solution has an energy of : 17446
+We take this solution
+Try to find a solution
+solution has an energy of : 17446
+We take this solution
+Try to find a solution
+solution has an energy of : 17069
+We take this solution
+solution has an energy of : 17414
+We take this solution
+Try to find a solution
+solution has an energy of : 17414
+We take this solution
+Try to find a solution
+solution has an energy of : 17414
+We take this solution
+Try to find a solution
+solution has an energy of : 17334
+We take this solution
+Try to find a solution
+solution has an energy of : 18612
+We take this solution
+solution has an energy of : 17246
+We take this solution
+Try to find a solution
+solution has an energy of : 17879
+We take this solution
+solution has an energy of : 17006
+We take this solution
+Try to find a solution
+solution has an energy of : 17319
+We take this solution
+solution has an energy of : 17006
+We take this solution
+Try to find a solution
+solution has an energy of : 17006
+We take this solution
+Try to find a solution
+solution has an energy of : 17077
+We take this solution
+solution has an energy of : 17006
+We take this solution
+Try to find a solution
+solution has an energy of : 17627
+We take this solution
+solution has an energy of : 18123
+We take this solution
+Try to find a solution
+solution has an energy of : 18541
+We take this solution
+solution has an energy of : 17963
+We take this solution
+solution has an energy of : 17483
+We take this solution
+Try to find a solution
+solution has an energy of : 17208
+We take this solution
+solution has an energy of : 17395
+We take this solution
+Try to find a solution
+solution has an energy of : 17542
+We take this solution
+solution has an energy of : 17307
+We take this solution
+solution has an energy of : 16801
+We take this solution
+Try to find a solution
+solution has an energy of : 16601
+We take this solution
+Try to find a solution
+solution has an energy of : 16321
+We take this solution
+solution has an energy of : 16383
+We take this solution
+Try to find a solution
+solution has an energy of : 16383
+We take this solution
+Try to find a solution
+solution has an energy of : 17557
+We take this solution
+solution has an energy of : 16255
+We take this solution
+solution has an energy of : 17798
+We take this solution
+Try to find a solution
+solution has an energy of : 18175
+We take this solution
+solution has an energy of : 17742
+We take this solution
+Try to find a solution
+solution has an energy of : 17542
+We take this solution
+Try to find a solution
+solution has an energy of : 17454
+We take this solution
+Try to find a solution
+solution has an energy of : 17216
+We take this solution
+solution has an energy of : 17454
+We take this solution
+Try to find a solution
+solution has an energy of : 17206
+We take this solution
+Try to find a solution
+solution has an energy of : 17054
+We take this solution
+Try to find a solution
+solution has an energy of : 17054
+We take this solution
+solution has an energy of : 17639
+We take this solution
+Try to find a solution
+solution has an energy of : 17227
+We take this solution
+solution has an energy of : 17597
+We take this solution
+solution has an energy of : 16694
+We take this solution
+Try to find a solution
+solution has an energy of : 16652
+We take this solution
+Try to find a solution
+solution has an energy of : 17494
+We take this solution
+solution has an energy of : 16652
+We take this solution
+solution has an energy of : 15629
+We take this solution
+Try to find a solution
+solution has an energy of : 15629
+We take this solution
+Try to find a solution
+solution has an energy of : 15629
+We take this solution
+Try to find a solution
+solution has an energy of : 15498
+We take this solution
+solution has an energy of : 15629
+We take this solution
+Try to find a solution
+solution has an energy of : 15629
+We take this solution
+Try to find a solution
+solution has an energy of : 15983
+We take this solution
+solution has an energy of : 15629
+We take this solution
+Try to find a solution
+solution has an energy of : 15613
+We take this solution
+solution has an energy of : 16238
+We take this solution
+Try to find a solution
+solution has an energy of : 16346
+We take this solution
+solution has an energy of : 16121
+We take this solution
+Try to find a solution
+solution has an energy of : 16081
+We take this solution
+solution has an energy of : 16121
+We take this solution
+solution has an energy of : 16545
+We take this solution
+Try to find a solution
+solution has an energy of : 16439
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16143
+We take this solution
+Try to find a solution
+solution has an energy of : 16635
+We take this solution
+solution has an energy of : 15856
+We take this solution
+Try to find a solution
+solution has an energy of : 15778
+We take this solution
+solution has an energy of : 15856
+We take this solution
+solution has an energy of : 16279
+We take this solution
+Try to find a solution
+solution has an energy of : 15983
+We take this solution
+Try to find a solution
+solution has an energy of : 16387
+We take this solution
+Try to find a solution
+solution has an energy of : 16387
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 16387
+We take this solution
+Try to find a solution
+solution has an energy of : 16649
+We take this solution
+Try to find a solution
+solution has an energy of : 16686
+We take this solution
+solution has an energy of : 16643
+We take this solution
+Try to find a solution
+solution has an energy of : 16643
+We take this solution
+Try to find a solution
+solution has an energy of : 16603
+We take this solution
+Try to find a solution
+solution has an energy of : 16427
+We take this solution
+Try to find a solution
+solution has an energy of : 17300
+We take this solution
+solution has an energy of : 16355
+We take this solution
+Try to find a solution
+solution has an energy of : 15708
+We take this solution
+solution has an energy of : 16347
+We take this solution
+Try to find a solution
+solution has an energy of : 16179
+We take this solution
+solution has an energy of : 16262
+We take this solution
+Try to find a solution
+solution has an energy of : 16206
+We take this solution
+Try to find a solution
+solution has an energy of : 16044
+We take this solution
+Try to find a solution
+solution has an energy of : 16044
+We take this solution
+Try to find a solution
+solution has an energy of : 15698
+We take this solution
+solution has an energy of : 16044
+We take this solution
+Try to find a solution
+solution has an energy of : 15868
+We take this solution
+solution has an energy of : 16031
+We take this solution
+Try to find a solution
+solution has an energy of : 16031
+We take this solution
+Try to find a solution
+solution has an energy of : 15927
+We take this solution
+Try to find a solution
+solution has an energy of : 15862
+We take this solution
+solution has an energy of : 15863
+We take this solution
+Try to find a solution
+solution has an energy of : 15855
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 15855
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 16098
+We take this solution
+solution has an energy of : 15855
+We take this solution
+Try to find a solution
+solution has an energy of : 15981
+We take this solution
+solution has an energy of : 15855
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 15889
+We take this solution
+Try to find a solution
+solution has an energy of : 15685
+We take this solution
+Try to find a solution
+solution has an energy of : 15685
+We take this solution
+Try to find a solution
+solution has an energy of : 16040
+We take this solution
+solution has an energy of : 15685
+We take this solution
+Try to find a solution
+solution has an energy of : 15685
+We take this solution
+Try to find a solution
+solution has an energy of : 16045
+We take this solution
+solution has an energy of : 15685
+We take this solution
+solution has an energy of : 16202
+We take this solution
+Try to find a solution
+solution has an energy of : 15391
+We take this solution
+solution has an energy of : 16194
+We take this solution
+Try to find a solution
+solution has an energy of : 16154
+We take this solution
+Try to find a solution
+solution has an energy of : 16705
+We take this solution
+solution has an energy of : 16056
+We take this solution
+Try to find a solution
+solution has an energy of : 15776
+We take this solution
+Try to find a solution
+solution has an energy of : 15776
+We take this solution
+Try to find a solution
+solution has an energy of : 15776
+We take this solution
+Try to find a solution
+solution has an energy of : 15776
+We take this solution
+Try to find a solution
+solution has an energy of : 15776
+We take this solution
+Try to find a solution
+solution has an energy of : 14168
+We take this solution
+solution has an energy of : 15768
+We take this solution
+Try to find a solution
+solution has an energy of : 15140
+We take this solution
+solution has an energy of : 15768
+We take this solution
+Try to find a solution
+solution has an energy of : 15768
+We take this solution
+Try to find a solution
+solution has an energy of : 15494
+We take this solution
+Try to find a solution
+solution has an energy of : 15396
+We take this solution
+Try to find a solution
+solution has an energy of : 15396
+We take this solution
+Try to find a solution
+solution has an energy of : 15396
+We take this solution
+Try to find a solution
+solution has an energy of : 15396
+We take this solution
+Try to find a solution
+solution has an energy of : 15226
+We take this solution
+solution has an energy of : 15396
+We take this solution
+Try to find a solution
+solution has an energy of : 15260
+We take this solution
+Try to find a solution
+solution has an energy of : 15260
+We take this solution
+Try to find a solution
+solution has an energy of : 15260
+We take this solution
+Try to find a solution
+solution has an energy of : 15260
+We take this solution
+Try to find a solution
+solution has an energy of : 15108
+We take this solution
+Try to find a solution
+solution has an energy of : 15108
+We take this solution
+Try to find a solution
+solution has an energy of : 15052
+We take this solution
+Try to find a solution
+solution has an energy of : 14439
+We take this solution
+solution has an energy of : 15052
+We take this solution
+Try to find a solution
+solution has an energy of : 15052
+We take this solution
+Try to find a solution
+solution has an energy of : 14982
+We take this solution
+solution has an energy of : 14756
+We take this solution
+Try to find a solution
+solution has an energy of : 14756
+We take this solution
+Try to find a solution
+solution has an energy of : 14684
+We take this solution
+solution has an energy of : 14651
+We take this solution
+Try to find a solution
+solution has an energy of : 14651
+We take this solution
+Try to find a solution
+solution has an energy of : 14619
+We take this solution
+Try to find a solution
+solution has an energy of : 14385
+We take this solution
+Try to find a solution
+solution has an energy of : 14345
+We take this solution
+Try to find a solution
+solution has an energy of : 14071
+We take this solution
+Try to find a solution
+solution has an energy of : 14071
+We take this solution
+Try to find a solution
+solution has an energy of : 14071
+We take this solution
+Try to find a solution
+solution has an energy of : 14063
+We take this solution
+Try to find a solution
+solution has an energy of : 13871
+We take this solution
+Try to find a solution
+solution has an energy of : 13743
+We take this solution
+Try to find a solution
+solution has an energy of : 13743
+We take this solution
+Try to find a solution
+solution has an energy of : 13579
+We take this solution
+solution has an energy of : 13743
+We take this solution
+
+Final solution of Simulated Annealing
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X          G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0            X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+X  G0G0G0  G0  G0  G0G0    G0    G0G0    G0G0G0G0G0  G0      X
+X    G0G0G0G0G0G0    G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  X
+XG0  G0G0G0G0  G0        G0G0  G0G0G0  G0G0G0G0G0G0G0    G0G0X
+XG0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0  G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0  X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0  G0G0G0G0G0G0  X
+XG0  G0  G0G0G0G0G0  G0G0G0G0G0G0G0G0G0  G0G0G0  G0G0G0G0G0  X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0  G0  X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0  X
+XG0  G0G0G0G0  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0  X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0    G0G0  X
+XG0G0G0G0G0G0XXG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    G0  G0  G0  X
+XG0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    G0  XXG0G0  X
+X    G0G0  G0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0    G0  G0X
+X    G0  G0G0G0G0G0G0  G0  G0G0  G0      G0  G0G0G0G0G0    G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+X                  G0                    G0      G0          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Simulated Annealing
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X            XX                                              X
+X                                                            X
+X                                                            X
+X                                                    XX      X
+X                                                          X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[749, 456, 30, 224, 370, 204, 890, 250, 462, 647, 132, 553, 718, 767, 469, 564, 73, 649, 640, 300, 120, 165, 435, 555, 451, 268, 190, 544, 184, 232, 23, 181, 334, 138, 278, 506, 206, 489, 441, 55, 662, 122, 38, 628, 690, 570, 5, 799, 843, 504, 21, 314, 698, 320, 847, 430, 894, 49, 16, 587, 841, 705, 146, 240, 437, 711, 855, 839, 118, 336, 338, 228, 832, 778, 762, 577, 638, 157, 97, 752, 447, 105, 695, 222, 765, 612, 388, 397, 702, 316, 538, 853, 170, 651, 413, 77, 787, 332, 328, 288, 630, 815, 266, 579, 879, 179, 381, 484, 57, 62, 310, 707, 230, 749]
+
+Begin genetic with memory with max generations 100
+Iteration 0 ends with fitness = 2071
+Iteration 1 ends with fitness = 2075
+Iteration 2 ends with fitness = 2075
+Iteration 3 ends with fitness = 2075
+Iteration 4 ends with fitness = 2075
+Iteration 5 ends with fitness = 2075
+Iteration 6 ends with fitness = 2075
+Iteration 7 ends with fitness = 2076
+Iteration 8 ends with fitness = 2076
+Iteration 9 ends with fitness = 2076
+Iteration 10 ends with fitness = 2076
+Iteration 11 ends with fitness = 2076
+Iteration 12 ends with fitness = 2073
+Iteration 13 ends with fitness = 2073
+Iteration 14 ends with fitness = 2073
+Iteration 15 ends with fitness = 2073
+Iteration 16 ends with fitness = 2073
+Iteration 17 ends with fitness = 2073
+Iteration 18 ends with fitness = 2073
+Iteration 19 ends with fitness = 2073
+Iteration 20 ends with fitness = 2073
+Iteration 21 ends with fitness = 2073
+Iteration 22 ends with fitness = 1980
+Iteration 23 ends with fitness = 1980
+Iteration 24 ends with fitness = 1980
+Iteration 25 ends with fitness = 1810
+Iteration 26 ends with fitness = 1810
+Iteration 27 ends with fitness = 1810
+Iteration 28 ends with fitness = 1810
+Iteration 29 ends with fitness = 1823
+Iteration 30 ends with fitness = 1823
+Iteration 31 ends with fitness = 1838
+Iteration 32 ends with fitness = 1838
+Iteration 33 ends with fitness = 1838
+Iteration 34 ends with fitness = 1837
+Iteration 35 ends with fitness = 1837
+Iteration 36 ends with fitness = 1837
+Iteration 37 ends with fitness = 1837
+Iteration 38 ends with fitness = 1837
+Iteration 39 ends with fitness = 1837
+Iteration 40 ends with fitness = 1837
+Iteration 41 ends with fitness = 1837
+Iteration 42 ends with fitness = 1837
+Iteration 43 ends with fitness = 1837
+Iteration 44 ends with fitness = 1837
+Iteration 45 ends with fitness = 1837
+Iteration 46 ends with fitness = 1837
+Iteration 47 ends with fitness = 1837
+Iteration 48 ends with fitness = 1837
+Iteration 49 ends with fitness = 1837
+Iteration 50 ends with fitness = 1837
+Iteration 51 ends with fitness = 1837
+Iteration 52 ends with fitness = 1837
+Iteration 53 ends with fitness = 1837
+Iteration 54 ends with fitness = 1837
+Iteration 55 ends with fitness = 1837
+Iteration 56 ends with fitness = 1850
+Iteration 57 ends with fitness = 1850
+Iteration 58 ends with fitness = 1850
+Iteration 59 ends with fitness = 1850
+Iteration 60 ends with fitness = 1850
+Iteration 61 ends with fitness = 1850
+Iteration 62 ends with fitness = 1850
+Iteration 63 ends with fitness = 1850
+Iteration 64 ends with fitness = 1860
+Iteration 65 ends with fitness = 1860
+Iteration 66 ends with fitness = 1860
+Iteration 67 ends with fitness = 1860
+Iteration 68 ends with fitness = 1860
+Iteration 69 ends with fitness = 1860
+Iteration 70 ends with fitness = 1860
+Iteration 71 ends with fitness = 1860
+Iteration 72 ends with fitness = 1860
+Iteration 73 ends with fitness = 1860
+Iteration 74 ends with fitness = 1860
+Iteration 75 ends with fitness = 1860
+Iteration 76 ends with fitness = 1860
+Iteration 77 ends with fitness = 1860
+Iteration 78 ends with fitness = 1860
+Iteration 79 ends with fitness = 1860
+Iteration 80 ends with fitness = 1887
+Iteration 81 ends with fitness = 1887
+Iteration 82 ends with fitness = 1887
+Iteration 83 ends with fitness = 1921
+Iteration 84 ends with fitness = 1921
+Iteration 85 ends with fitness = 1921
+Iteration 86 ends with fitness = 1921
+Iteration 87 ends with fitness = 1921
+Iteration 88 ends with fitness = 1921
+Iteration 89 ends with fitness = 1921
+Iteration 90 ends with fitness = 1921
+Iteration 91 ends with fitness = 1921
+Iteration 92 ends with fitness = 1921
+Iteration 93 ends with fitness = 1921
+Iteration 94 ends with fitness = 1921
+Iteration 95 ends with fitness = 1919
+Iteration 96 ends with fitness = 1919
+Iteration 97 ends with fitness = 1919
+Iteration 98 ends with fitness = 1919
+Iteration 99 ends with fitness = 1919
+
+Final solution of Genetic Algorithm
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X          G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+X  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    G0      G0X
+X    G0          G0G0  G0G0G0G0  G0  G0G0    G0  G0G0    G0G0X
+X      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0X
+X        G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0  G0G0G0  G0G0G0  G0X
+X  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+X    G0  G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X    G0  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X    G0G0G0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0      G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0    G0  G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0G0  X
+XG0  G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0X
+XG0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0X
+XG0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0    G0G0XXG0G0G0G0  G0G0G0G0G0  G0G0G0G0G0  G0G0G0G0G0G0X
+XG0G0  G0  G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0  G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0XXG0G0G0X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0X
+X    G0G0  G0    G0G0G0G0  G0  G0G0G0G0G0G0  G0G0G0G0G0G0G0  X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    G0  X
+X  G0  G0      G0    G0G0G0G0  G0    G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0      G0  G0  G0G0G0G0    G0    G0  G0G0    G0  G0G0  X
+X  G0      G0G0G0G0G0G0G0G0G0G0G0G0G0        G0          G0  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Genetic Algorithm
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X            XX                                              X
+X                                                            X
+X                                                            X
+X                                                    XX      X
+X                                                          X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+X                                                            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[749, 386, 141, 596, 8, 820, 27, 214, 519, 887, 662, 898, 297, 875, 502, 644, 381, 612, 74, 505, 205, 605, 659, 102, 839, 302, 181, 369, 694, 448, 253, 359, 573, 687, 310, 306, 109, 865, 136, 431, 319, 701, 853, 30, 225, 144, 451, 722, 568, 637, 124, 323, 19, 456, 408, 720, 41, 571, 578, 553, 334, 588, 239, 128, 871, 316, 442, 156, 622, 768, 68, 314, 804, 800, 648, 395, 161, 13, 500, 778, 680, 463, 5, 82, 32, 25, 743, 397, 458, 232, 802, 207, 193, 188, 733, 384, 372, 563, 85, 708, 405, 321, 274, 242, 551, 514, 682, 89, 881, 467, 782, 892, 147, 685, 755, 16, 859, 230, 749]

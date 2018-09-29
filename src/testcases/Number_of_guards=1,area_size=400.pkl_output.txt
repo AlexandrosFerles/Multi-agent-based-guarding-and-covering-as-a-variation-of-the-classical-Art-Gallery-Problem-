@@ -1,0 +1,1062 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                    XX                  X
+X                                        X
+X                                        X
+X                        G0              X
+X                                        X
+X                                        X
+X                                        X
+XXX                                      X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+Initial solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XG0    G0    G0G0G0G0XX  G0    G0G0      X
+XG0G0  G0G0    G0G0G0G0G0G0G0G0    G0  G0X
+XG0  G0G0  G0  G0G0  G0G0G0G0      G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    G0  G0X
+XG0G0  G0G0    G0G0G0G0G0G0G0G0G0G0    G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XXXG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0  G0G0G0G0G0  G0G0G0G0  G0  G0G0  X
+XG0G0  G0  G0G0    G0G0  G0G0G0G0G0G0    X
+XG0  G0G0G0G0    G0G0G0G0G0G0  G0        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+Begin TabuSearch with memory 5 and for 10 iterations
+Initial solution has a fitness of : 6146
+Best solution has a fitness of : 6146
+New solution found with a fitness of : 5124
+Iteration 0Best solution has a fitness of : 5124
+Iteration 1Best solution has a fitness of : 5124
+New solution found with a fitness of : 5076
+Iteration 2Best solution has a fitness of : 5076
+Iteration 3Best solution has a fitness of : 5076
+Iteration 4Best solution has a fitness of : 5076
+Iteration 5Best solution has a fitness of : 5076
+Iteration 6Best solution has a fitness of : 5076
+Iteration 7Best solution has a fitness of : 5076
+Iteration 8Best solution has a fitness of : 5076
+Iteration 9Best solution has a fitness of : 5076
+
+Final solution of Tabu Search
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XG0    G0G0G0G0G0G0G0XX  G0    G0G0      X
+XG0G0    G0    G0G0  G0G0G0G0G0    G0  G0X
+XG0G0      G0  G0G0  G0G0G0G0G0    G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0X
+XG0G0G0G0      G0G0G0G0G0G0G0G0G0G0    G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0X
+XG0G0  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XXXG0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0  G0G0  G0G0X
+XG0G0  G0G0G0  G0G0  G0G0G0  G0G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0  G0  G0G0G0G0  G0G0G0G0G0  G0G0X
+XG0G0G0G0G0G0G0G0G0  G0  G0G0G0G0G0G0G0G0X
+XG0G0  G0G0  G0G0G0G0G0G0G0  G0G0G0G0  G0X
+XG0G0G0G0  G0G0G0G0  G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0  G0G0G0G0G0G0  G0G0G0G0G0G0X
+XG0  G0  G0  G0G0G0G0G0G0G0G0  G0    G0  X
+XG0G0G0G0  G0      G0G0G0G0G0G0G0G0G0    X
+XG0  G0          G0G0G0G0G0G0G0G0        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Tabu Search
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                    XX                  X
+X                                        X
+X                                        X
+X                                      X
+X                                        X
+X                                        X
+X                                        X
+XXX                                      X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[72, 380, 0, 321, 241, 77, 16, 34, 126, 176, 259, 252, 30, 339, 229, 192, 347, 92, 164, 128, 382, 187, 6, 199, 377, 245, 268, 306, 95, 12, 70, 337, 257, 275, 3, 8, 150, 152, 350, 365, 281, 63, 66, 158, 223, 303, 104, 393, 315, 234, 355, 118, 52, 135, 263, 390, 39, 388, 298, 353, 201, 216, 68, 102, 100, 110, 194, 290, 395, 162, 292, 227, 72]
+[72, 380, 0, 321, 241, 77, 16, 34, 126, 176, 259, 252, 30, 339, 229, 192, 347, 92, 164, 128, 382, 187, 6, 199, 377, 245, 268, 306, 95, 12, 70, 337, 257, 275, 3, 8, 150, 152, 350, 365, 281, 63, 66, 158, 223, 303, 104, 393, 315, 234, 355, 118, 52, 135, 263, 390, 39, 388, 298, 353, 201, 216, 68, 102, 100, 110, 194, 290, 395, 162, 292, 227, 72]
+[72, 380, 0, 321, 241, 77, 16, 34, 126, 176, 259, 252, 30, 339, 229, 192, 347, 92, 164, 128, 382, 187, 6, 199, 377, 245, 268, 306, 95, 12, 70, 337, 257, 275, 3, 8, 150, 152, 350, 365, 281, 63, 66, 158, 223, 303, 104, 393, 315, 234, 355, 118, 52, 135, 263, 390, 39, 388, 298, 353, 201, 216, 68, 102, 100, 110, 194, 290, 395, 162, 292, 227, 72]
+
+Begin simulatedAnnealing with initial Energy 1000 and for 
+Initial solution has an energy of : 6146
+Try to find a solution
+solution has an energy of : 6146
+We take this solution
+solution has an energy of : 6210
+We take this solution
+Try to find a solution
+solution has an energy of : 6176
+We take this solution
+solution has an energy of : 5858
+We take this solution
+Try to find a solution
+solution has an energy of : 5517
+We take this solution
+solution has an energy of : 5858
+We take this solution
+Try to find a solution
+solution has an energy of : 5858
+We take this solution
+solution has an energy of : 6169
+We take this solution
+Try to find a solution
+solution has an energy of : 6111
+We take this solution
+Try to find a solution
+solution has an energy of : 5743
+We take this solution
+solution has an energy of : 6031
+We take this solution
+Try to find a solution
+solution has an energy of : 5896
+We take this solution
+solution has an energy of : 6031
+We take this solution
+solution has an energy of : 5904
+We take this solution
+Try to find a solution
+solution has an energy of : 5864
+We take this solution
+solution has an energy of : 5792
+We take this solution
+Try to find a solution
+solution has an energy of : 5728
+We take this solution
+solution has an energy of : 5188
+We take this solution
+Try to find a solution
+solution has an energy of : 5116
+We take this solution
+solution has an energy of : 5506
+We take this solution
+Try to find a solution
+solution has an energy of : 5506
+We take this solution
+Try to find a solution
+solution has an energy of : 5506
+We take this solution
+solution has an energy of : 5989
+We take this solution
+Try to find a solution
+solution has an energy of : 5989
+We take this solution
+solution has an energy of : 5785
+We take this solution
+Try to find a solution
+solution has an energy of : 5785
+We take this solution
+solution has an energy of : 5577
+We take this solution
+Try to find a solution
+solution has an energy of : 6128
+We take this solution
+solution has an energy of : 5577
+We take this solution
+Try to find a solution
+solution has an energy of : 6011
+We take this solution
+solution has an energy of : 5481
+We take this solution
+solution has an energy of : 5901
+We take this solution
+Try to find a solution
+solution has an energy of : 6133
+We take this solution
+solution has an energy of : 5901
+We take this solution
+solution has an energy of : 6132
+We take this solution
+Try to find a solution
+solution has an energy of : 5898
+We take this solution
+solution has an energy of : 6028
+We take this solution
+solution has an energy of : 6013
+We take this solution
+Try to find a solution
+solution has an energy of : 5899
+We take this solution
+solution has an energy of : 5915
+We take this solution
+Try to find a solution
+solution has an energy of : 5859
+We take this solution
+solution has an energy of : 5915
+We take this solution
+solution has an energy of : 5123
+We take this solution
+Try to find a solution
+solution has an energy of : 5011
+We take this solution
+solution has an energy of : 5523
+We take this solution
+Try to find a solution
+solution has an energy of : 6098
+We take this solution
+solution has an energy of : 5523
+We take this solution
+Try to find a solution
+solution has an energy of : 5565
+We take this solution
+solution has an energy of : 5523
+We take this solution
+solution has an energy of : 5588
+We take this solution
+Try to find a solution
+solution has an energy of : 5464
+We take this solution
+Try to find a solution
+solution has an energy of : 5697
+We take this solution
+solution has an energy of : 5456
+We take this solution
+solution has an energy of : 5832
+We take this solution
+Try to find a solution
+solution has an energy of : 5584
+We take this solution
+solution has an energy of : 5824
+We take this solution
+Try to find a solution
+solution has an energy of : 5752
+We take this solution
+solution has an energy of : 5411
+We take this solution
+Try to find a solution
+solution has an energy of : 5411
+We take this solution
+Try to find a solution
+solution has an energy of : 5514
+We take this solution
+solution has an energy of : 5693
+We take this solution
+Try to find a solution
+solution has an energy of : 5693
+We take this solution
+solution has an energy of : 5393
+We take this solution
+Try to find a solution
+solution has an energy of : 5686
+We take this solution
+solution has an energy of : 5393
+We take this solution
+solution has an energy of : 5569
+We take this solution
+Try to find a solution
+solution has an energy of : 5561
+We take this solution
+Try to find a solution
+solution has an energy of : 5544
+We take this solution
+solution has an energy of : 5561
+We take this solution
+Try to find a solution
+solution has an energy of : 5709
+We take this solution
+solution has an energy of : 5457
+We take this solution
+Try to find a solution
+solution has an energy of : 5383
+We take this solution
+solution has an energy of : 5430
+We take this solution
+Try to find a solution
+solution has an energy of : 5231
+We take this solution
+Try to find a solution
+solution has an energy of : 5231
+We take this solution
+solution has an energy of : 5357
+We take this solution
+Try to find a solution
+solution has an energy of : 5341
+We take this solution
+Try to find a solution
+solution has an energy of : 5208
+We take this solution
+solution has an energy of : 5120
+We take this solution
+Try to find a solution
+solution has an energy of : 5072
+We take this solution
+solution has an energy of : 5404
+We take this solution
+Try to find a solution
+solution has an energy of : 5223
+We take this solution
+solution has an energy of : 5356
+We take this solution
+solution has an energy of : 5552
+We take this solution
+Try to find a solution
+solution has an energy of : 5260
+We take this solution
+solution has an energy of : 5448
+We take this solution
+solution has an energy of : 5206
+We take this solution
+Try to find a solution
+solution has an energy of : 5206
+We take this solution
+solution has an energy of : 5743
+We take this solution
+Try to find a solution
+solution has an energy of : 5003
+We take this solution
+Try to find a solution
+solution has an energy of : 4891
+We take this solution
+solution has an energy of : 5329
+We take this solution
+Try to find a solution
+solution has an energy of : 5185
+We take this solution
+Try to find a solution
+solution has an energy of : 5185
+We take this solution
+Try to find a solution
+solution has an energy of : 5185
+We take this solution
+Try to find a solution
+solution has an energy of : 5472
+We take this solution
+solution has an energy of : 5033
+We take this solution
+Try to find a solution
+solution has an energy of : 4977
+We take this solution
+Try to find a solution
+solution has an energy of : 5468
+We take this solution
+solution has an energy of : 4977
+We take this solution
+solution has an energy of : 4997
+We take this solution
+Try to find a solution
+solution has an energy of : 4925
+We take this solution
+solution has an energy of : 4880
+We take this solution
+Try to find a solution
+solution has an energy of : 5374
+We take this solution
+solution has an energy of : 4808
+We take this solution
+solution has an energy of : 5223
+We take this solution
+Try to find a solution
+solution has an energy of : 5223
+We take this solution
+solution has an energy of : 5074
+We take this solution
+Try to find a solution
+solution has an energy of : 4890
+We take this solution
+solution has an energy of : 5074
+We take this solution
+solution has an energy of : 5299
+We take this solution
+Try to find a solution
+solution has an energy of : 5275
+We take this solution
+solution has an energy of : 4901
+We take this solution
+Try to find a solution
+solution has an energy of : 5172
+We take this solution
+solution has an energy of : 4901
+We take this solution
+solution has an energy of : 4513
+We take this solution
+Try to find a solution
+solution has an energy of : 4425
+We take this solution
+solution has an energy of : 4895
+We take this solution
+Try to find a solution
+solution has an energy of : 4887
+We take this solution
+Try to find a solution
+solution has an energy of : 5251
+We take this solution
+solution has an energy of : 4887
+We take this solution
+Try to find a solution
+solution has an energy of : 4887
+We take this solution
+Try to find a solution
+solution has an energy of : 5462
+We take this solution
+solution has an energy of : 4887
+We take this solution
+solution has an energy of : 4702
+We take this solution
+Try to find a solution
+solution has an energy of : 4961
+We take this solution
+solution has an energy of : 4548
+We take this solution
+Try to find a solution
+solution has an energy of : 4546
+We take this solution
+solution has an energy of : 4498
+We take this solution
+solution has an energy of : 5047
+We take this solution
+Try to find a solution
+solution has an energy of : 5047
+We take this solution
+solution has an energy of : 5129
+We take this solution
+Try to find a solution
+solution has an energy of : 5017
+We take this solution
+solution has an energy of : 4916
+We take this solution
+Try to find a solution
+solution has an energy of : 4978
+We take this solution
+solution has an energy of : 4876
+We take this solution
+Try to find a solution
+solution has an energy of : 4524
+We take this solution
+solution has an energy of : 4716
+We take this solution
+Try to find a solution
+solution has an energy of : 4655
+We take this solution
+solution has an energy of : 4716
+We take this solution
+solution has an energy of : 4978
+We take this solution
+Try to find a solution
+solution has an energy of : 4928
+We take this solution
+solution has an energy of : 4880
+We take this solution
+solution has an energy of : 5099
+We take this solution
+Try to find a solution
+solution has an energy of : 4674
+We take this solution
+solution has an energy of : 5099
+We take this solution
+Try to find a solution
+solution has an energy of : 5027
+We take this solution
+solution has an energy of : 4727
+We take this solution
+Try to find a solution
+solution has an energy of : 4727
+We take this solution
+solution has an energy of : 4764
+We take this solution
+Try to find a solution
+solution has an energy of : 4692
+We take this solution
+solution has an energy of : 4684
+We take this solution
+solution has an energy of : 4608
+We take this solution
+Try to find a solution
+solution has an energy of : 4354
+We take this solution
+solution has an energy of : 4608
+We take this solution
+Try to find a solution
+solution has an energy of : 4496
+We take this solution
+Try to find a solution
+solution has an energy of : 4496
+We take this solution
+Try to find a solution
+solution has an energy of : 4676
+We take this solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4737
+We take this solution
+solution has an energy of : 4676
+We take this solution
+Try to find a solution
+solution has an energy of : 5271
+We take this solution
+Try to find a solution
+solution has an energy of : 4915
+We take this solution
+Try to find a solution
+solution has an energy of : 4915
+We take this solution
+Try to find a solution
+solution has an energy of : 4685
+We take this solution
+Try to find a solution
+solution has an energy of : 4685
+We take this solution
+Try to find a solution
+solution has an energy of : 4685
+We take this solution
+Try to find a solution
+solution has an energy of : 4587
+We take this solution
+Try to find a solution
+solution has an energy of : 4579
+We take this solution
+Try to find a solution
+solution has an energy of : 4561
+We take this solution
+solution has an energy of : 4579
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4402
+We take this solution
+solution has an energy of : 4579
+We take this solution
+Try to find a solution
+solution has an energy of : 4404
+We take this solution
+Try to find a solution
+solution has an energy of : 4364
+We take this solution
+Try to find a solution
+solution has an energy of : 4364
+We take this solution
+solution has an energy of : 4361
+We take this solution
+Try to find a solution
+solution has an energy of : 4361
+We take this solution
+Try to find a solution
+solution has an energy of : 4361
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4611
+We take this solution
+Try to find a solution
+solution has an energy of : 4592
+We take this solution
+solution has an energy of : 4611
+We take this solution
+Try to find a solution
+solution has an energy of : 4611
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4860
+We take this solution
+solution has an energy of : 4611
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4611
+We take this solution
+solution has an energy of : 4703
+We take this solution
+Try to find a solution
+solution has an energy of : 4517
+We take this solution
+Try to find a solution
+solution has an energy of : 4517
+We take this solution
+Try to find a solution
+solution has an energy of : 4517
+We take this solution
+Try to find a solution
+solution has an energy of : 4517
+We take this solution
+Try to find a solution
+solution has an energy of : 4610
+We take this solution
+solution has an energy of : 4568
+We take this solution
+Try to find a solution
+solution has an energy of : 4156
+We take this solution
+solution has an energy of : 4464
+We take this solution
+Try to find a solution
+solution has an energy of : 4464
+We take this solution
+Try to find a solution
+solution has an energy of : 4408
+We take this solution
+Try to find a solution
+solution has an energy of : 4408
+We take this solution
+Try to find a solution
+solution has an energy of : 4408
+We take this solution
+solution has an energy of : 4338
+We take this solution
+Try to find a solution
+solution has an energy of : 4282
+We take this solution
+Try to find a solution
+solution has an energy of : 4282
+We take this solution
+Try to find a solution
+solution has an energy of : 4114
+We take this solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4114
+We take this solution
+Try to find a solution
+solution has an energy of : 4114
+We take this solution
+Try to find a solution
+solution has an energy of : 4114
+We take this solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4114
+We take this solution
+solution has an energy of : 4110
+We take this solution
+Try to find a solution
+solution has an energy of : 4078
+We take this solution
+Try to find a solution
+solution has an energy of : 4078
+We take this solution
+Try to find a solution
+solution has an energy of : 4078
+We take this solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+solution has an energy of : 3979
+We take this solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 4070
+We take this solution
+solution has an energy of : 3941
+We take this solution
+Try to find a solution
+solution has an energy of : 3941
+We take this solution
+Try to find a solution
+solution has an energy of : 3699
+We take this solution
+Try to find a solution
+solution has an energy of : 3699
+We take this solution
+Try to find a solution
+solution has an energy of : 3691
+We take this solution
+Try to find a solution
+solution has an energy of : 3691
+We take this solution
+Try to find a solution
+solution has an energy of : 3777
+We take this solution
+Try to find a solution
+solution has an energy of : 3713
+We take this solution
+Try to find a solution
+solution has an energy of : 3713
+We take this solution
+Try to find a solution
+solution has an energy of : 3713
+We take this solution
+Try to find a solution
+solution has an energy of : 3713
+We take this solution
+Try to find a solution
+solution has an energy of : 3713
+We take this solution
+Try to find a solution
+solution has an energy of : 3665
+We take this solution
+Try to find a solution
+solution has an energy of : 3505
+We take this solution
+Try to find a solution
+solution has an energy of : 3505
+We take this solution
+Try to find a solution
+solution has an energy of : 3505
+We take this solution
+Try to find a solution
+solution has an energy of : 3494
+We take this solution
+solution has an energy of : 3505
+We take this solution
+Try to find a solution
+solution has an energy of : 3385
+We take this solution
+Try to find a solution
+solution has an energy of : 3512
+We take this solution
+solution has an energy of : 3385
+We take this solution
+Try to find a solution
+solution has an energy of : 3385
+We take this solution
+Try to find a solution
+solution has an energy of : 3385
+We take this solution
+Try to find a solution
+solution has an energy of : 3385
+We take this solution
+Try to find a solution
+solution has an energy of : 3313
+We take this solution
+Try to find a solution
+solution has an energy of : 3313
+We take this solution
+Try to find a solution
+solution has an energy of : 3281
+We take this solution
+Try to find a solution
+solution has an energy of : 3273
+We take this solution
+Try to find a solution
+solution has an energy of : 3183
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+solution has an energy of : 3113
+We take this solution
+
+Final solution of Simulated Annealing
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XG0G0G0G0    G0G0    XX  G0      G0      X
+X  G0  G0G0G0    G0    G0G0    G0G0    G0X
+X    G0G0G0G0      G0G0  G0  G0  G0  G0G0X
+X  G0  G0    G0G0G0  G0G0G0G0    G0G0  G0X
+X  G0G0  G0G0  G0  G0G0G0G0    G0G0    G0X
+XG0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0  G0G0G0    G0  G0X
+XXXG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0  G0  G0  G0X
+XG0G0G0G0G0  G0  G0G0G0G0G0  G0  G0    G0X
+XG0G0G0G0  G0G0G0  G0G0G0  G0  G0  G0  G0X
+XG0G0G0G0G0  G0  G0G0G0G0G0G0G0      G0G0X
+XG0G0G0G0G0G0G0G0G0G0    G0G0        G0G0X
+XG0G0G0G0    G0G0G0      G0        G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0      G0    G0X
+XG0  G0G0G0G0G0      G0G0      G0      G0X
+XG0    G0  G0      G0    G0G0G0G0G0G0  G0X
+XG0  G0  G0G0    G0        G0G0G0G0  G0  X
+XG0G0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0  G0G0G0G0G0                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Simulated Annealing
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                    XX                  X
+X                                        X
+X                                        X
+X                                      X
+X                                        X
+X                                        X
+X                                        X
+XXX                                      X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[72, 382, 158, 164, 16, 380, 6, 259, 353, 337, 290, 100, 303, 68, 104, 241, 229, 152, 194, 118, 0, 234, 102, 365, 39, 377, 281, 292, 63, 3, 61, 263, 110, 306, 70, 12, 128, 245, 72]
+
+Begin genetic with memory with max generations 100
+Iteration 0 ends with fitness = 634
+Iteration 1 ends with fitness = 634
+Iteration 2 ends with fitness = 634
+Iteration 3 ends with fitness = 627
+Iteration 4 ends with fitness = 627
+Iteration 5 ends with fitness = 627
+Iteration 6 ends with fitness = 627
+Iteration 7 ends with fitness = 616
+Iteration 8 ends with fitness = 616
+Iteration 9 ends with fitness = 616
+Iteration 10 ends with fitness = 616
+Iteration 11 ends with fitness = 616
+Iteration 12 ends with fitness = 616
+Iteration 13 ends with fitness = 616
+Iteration 14 ends with fitness = 480
+Iteration 15 ends with fitness = 480
+Iteration 16 ends with fitness = 480
+Iteration 17 ends with fitness = 480
+Iteration 18 ends with fitness = 480
+Iteration 19 ends with fitness = 480
+Iteration 20 ends with fitness = 480
+Iteration 21 ends with fitness = 480
+Iteration 22 ends with fitness = 480
+Iteration 23 ends with fitness = 480
+Iteration 24 ends with fitness = 480
+Iteration 25 ends with fitness = 480
+Iteration 26 ends with fitness = 480
+Iteration 27 ends with fitness = 480
+Iteration 28 ends with fitness = 480
+Iteration 29 ends with fitness = 480
+Iteration 30 ends with fitness = 493
+Iteration 31 ends with fitness = 493
+Iteration 32 ends with fitness = 493
+Iteration 33 ends with fitness = 493
+Iteration 34 ends with fitness = 493
+Iteration 35 ends with fitness = 499
+Iteration 36 ends with fitness = 499
+Iteration 37 ends with fitness = 499
+Iteration 38 ends with fitness = 499
+Iteration 39 ends with fitness = 499
+Iteration 40 ends with fitness = 499
+Iteration 41 ends with fitness = 499
+Iteration 42 ends with fitness = 499
+Iteration 43 ends with fitness = 499
+Iteration 44 ends with fitness = 499
+Iteration 45 ends with fitness = 499
+Iteration 46 ends with fitness = 499
+Iteration 47 ends with fitness = 499
+Iteration 48 ends with fitness = 499
+Iteration 49 ends with fitness = 499
+Iteration 50 ends with fitness = 499
+Iteration 51 ends with fitness = 499
+Iteration 52 ends with fitness = 499
+Iteration 53 ends with fitness = 486
+Iteration 54 ends with fitness = 486
+Iteration 55 ends with fitness = 481
+Iteration 56 ends with fitness = 481
+Iteration 57 ends with fitness = 481
+Iteration 58 ends with fitness = 481
+Iteration 59 ends with fitness = 481
+Iteration 60 ends with fitness = 481
+Iteration 61 ends with fitness = 481
+Iteration 62 ends with fitness = 481
+Iteration 63 ends with fitness = 481
+Iteration 64 ends with fitness = 481
+Iteration 65 ends with fitness = 481
+Iteration 66 ends with fitness = 481
+Iteration 67 ends with fitness = 494
+Iteration 68 ends with fitness = 494
+Iteration 69 ends with fitness = 494
+Iteration 70 ends with fitness = 494
+Iteration 71 ends with fitness = 501
+Iteration 72 ends with fitness = 501
+Iteration 73 ends with fitness = 501
+Iteration 74 ends with fitness = 501
+Iteration 75 ends with fitness = 501
+Iteration 76 ends with fitness = 501
+Iteration 77 ends with fitness = 501
+Iteration 78 ends with fitness = 501
+Iteration 79 ends with fitness = 501
+Iteration 80 ends with fitness = 501
+Iteration 81 ends with fitness = 501
+Iteration 82 ends with fitness = 501
+Iteration 83 ends with fitness = 501
+Iteration 84 ends with fitness = 501
+Iteration 85 ends with fitness = 488
+Iteration 86 ends with fitness = 488
+Iteration 87 ends with fitness = 488
+Iteration 88 ends with fitness = 488
+Iteration 89 ends with fitness = 488
+Iteration 90 ends with fitness = 479
+Iteration 91 ends with fitness = 473
+Iteration 92 ends with fitness = 473
+Iteration 93 ends with fitness = 473
+Iteration 94 ends with fitness = 486
+Iteration 95 ends with fitness = 505
+Iteration 96 ends with fitness = 505
+Iteration 97 ends with fitness = 505
+Iteration 98 ends with fitness = 505
+Iteration 99 ends with fitness = 505
+
+Final solution of Genetic Algorithm
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                    XXG0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0        G0G0  G0  X
+X    G0G0    G0G0  G0        G0G0      G0X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0G0      G0X
+X    G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X    G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XXXG0G0G0G0G0G0G0G0G0G0  G0    G0  G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0    G0  G0X
+XG0G0G0    G0G0G0G0G0G0G0G0G0G0G0    G0  X
+X  G0G0  G0G0G0G0G0  G0G0G0G0  G0G0G0    X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0    X
+X    G0G0G0G0G0G0G0G0G0    G0G0G0  G0G0  X
+X    G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    G0X
+X  G0G0G0G0G0G0G0G0  G0G0G0G0G0    G0G0G0X
+X    G0G0    G0        G0G0G0  G0        X
+X    G0    G0          G0G0      G0      X
+X  G0G0G0G0G0G0G0G0G0G0    G0G0G0G0G0    X
+XG0  G0                                  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Genetic Algorithm
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                    XX                  X
+X                                        X
+X                                        X
+X                                      X
+X                                        X
+X                                        X
+X                                        X
+XXX                                      X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+X                                        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[72, 200, 11, 59, 370, 382, 17, 20, 29, 211, 284, 377, 142, 63, 149, 266, 310, 66, 205, 35, 137, 90, 73, 301, 308, 243, 167, 104, 333, 101, 294, 107, 99, 135, 251, 317, 319, 68, 197, 96, 240, 183, 277, 26, 160, 194, 22, 380, 171, 345, 72]

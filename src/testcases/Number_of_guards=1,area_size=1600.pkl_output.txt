@@ -1,0 +1,565 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                      XX                        X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X  XX                                                                            X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                  G0                                                            X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+Initial solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0  G0G0    G0  G0G0G0  G0      G0  G0G0  G0  G0  G0G0G0G0    G0  G0G0  G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0    G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0XXG0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+XG0G0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0XXG0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  G0  G0X
+XG0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+XG0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0    X
+X    G0G0  G0G0G0G0G0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+X  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  G0G0  G0  G0G0      X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+X      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+Begin TabuSearch with memory 5 and for 10 iterations
+Initial solution has a fitness of : 47412
+Best solution has a fitness of : 47412
+Best solution has a fitness of : 47412
+
+Final solution of Tabu Search
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0  G0G0    G0  G0G0G0  G0      G0  G0G0  G0  G0  G0G0G0G0    G0  G0G0  G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0    G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0XXG0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+XG0G0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0XXG0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  G0  G0X
+XG0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+XG0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0    X
+X    G0G0  G0G0G0G0G0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+X  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  G0G0  G0  G0G0      X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+X      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Tabu Search
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                      XX                        X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X  XX                                                                            X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                              X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[889, 652, 389, 963, 926, 1317, 831, 219, 322, 1557, 1093, 203, 1218, 1028, 293, 20, 998, 1447, 932, 1194, 954, 1212, 376, 515, 1275, 402, 851, 1378, 1287, 445, 853, 1283, 497, 991, 661, 1090, 669, 808, 92, 108, 62, 846, 1592, 1290, 1511, 626, 716, 467, 1187, 1490, 143, 346, 391, 1256, 310, 750, 1502, 1086, 86, 66, 1273, 1162, 1263, 1412, 900, 490, 248, 267, 154, 572, 742, 879, 829, 1515, 225, 547, 465, 609, 1185, 173, 1477, 229, 324, 1033, 236, 263, 448, 540, 816, 1520, 1079, 1149, 605, 1143, 1500, 1012, 908, 215, 874, 921, 1306, 522, 470, 1528, 72, 1421, 273, 1494, 1071, 280, 1135, 727, 696, 152, 251, 1588, 689, 421, 1395, 80, 744, 760, 1064, 738, 624, 437, 596, 110, 98, 117, 601, 1392, 1220, 100, 1581, 820, 827, 578, 825, 1198, 1319, 435, 638, 683, 731, 567, 30, 34, 1205, 187, 38, 614, 383, 970, 1060, 897, 1429, 513, 1196, 1082, 944, 1538, 545, 353, 1366, 1001, 1595, 1333, 1386, 1484, 986, 694, 974, 773, 2, 315, 1036, 594, 796, 1506, 590, 1458, 928, 1573, 1456, 747, 1066, 44, 1349, 6, 16, 90, 296, 863, 124, 659, 1376, 1403, 911, 1536, 1340, 525, 1016, 1368, 1192, 740, 201, 199, 685, 980, 181, 592, 1124, 616, 1048, 982, 479, 1508, 411, 286, 171, 916, 753, 379, 1384, 1571, 762, 1005, 455, 502, 1526, 647, 1400, 261, 12, 517, 374, 1018, 1321, 82, 1584, 534, 1473, 64, 1210, 317, 94, 1397, 9, 1482, 1208, 844, 1464, 798, 360, 673, 368, 96, 1141, 1268, 205, 582, 1113, 895, 1590, 341, 1563, 1342, 718, 841, 1138, 680, 1254, 88, 559, 906, 1200, 459, 168, 1062, 177, 28, 818, 492, 1271, 366, 299, 765, 671, 1116, 1586, 36, 330, 14, 433, 603, 1128, 145, 1414, 1298, 231, 0, 1370, 1492, 1285, 18, 889]
+[889, 652, 389, 963, 926, 1317, 831, 219, 322, 1557, 1093, 203, 1218, 1028, 293, 20, 998, 1447, 932, 1194, 954, 1212, 376, 515, 1275, 402, 851, 1378, 1287, 445, 853, 1283, 497, 991, 661, 1090, 669, 808, 92, 108, 62, 846, 1592, 1290, 1511, 626, 716, 467, 1187, 1490, 143, 346, 391, 1256, 310, 750, 1502, 1086, 86, 66, 1273, 1162, 1263, 1412, 900, 490, 248, 267, 154, 572, 742, 879, 829, 1515, 225, 547, 465, 609, 1185, 173, 1477, 229, 324, 1033, 236, 263, 448, 540, 816, 1520, 1079, 1149, 605, 1143, 1500, 1012, 908, 215, 874, 921, 1306, 522, 470, 1528, 72, 1421, 273, 1494, 1071, 280, 1135, 727, 696, 152, 251, 1588, 689, 421, 1395, 80, 744, 760, 1064, 738, 624, 437, 596, 110, 98, 117, 601, 1392, 1220, 100, 1581, 820, 827, 578, 825, 1198, 1319, 435, 638, 683, 731, 567, 30, 34, 1205, 187, 38, 614, 383, 970, 1060, 897, 1429, 513, 1196, 1082, 944, 1538, 545, 353, 1366, 1001, 1595, 1333, 1386, 1484, 986, 694, 974, 773, 2, 315, 1036, 594, 796, 1506, 590, 1458, 928, 1573, 1456, 747, 1066, 44, 1349, 6, 16, 90, 296, 863, 124, 659, 1376, 1403, 911, 1536, 1340, 525, 1016, 1368, 1192, 740, 201, 199, 685, 980, 181, 592, 1124, 616, 1048, 982, 479, 1508, 411, 286, 171, 916, 753, 379, 1384, 1571, 762, 1005, 455, 502, 1526, 647, 1400, 261, 12, 517, 374, 1018, 1321, 82, 1584, 534, 1473, 64, 1210, 317, 94, 1397, 9, 1482, 1208, 844, 1464, 798, 360, 673, 368, 96, 1141, 1268, 205, 582, 1113, 895, 1590, 341, 1563, 1342, 718, 841, 1138, 680, 1254, 88, 559, 906, 1200, 459, 168, 1062, 177, 28, 818, 492, 1271, 366, 299, 765, 671, 1116, 1586, 36, 330, 14, 433, 603, 1128, 145, 1414, 1298, 231, 0, 1370, 1492, 1285, 18, 889]
+[889, 652, 389, 963, 926, 1317, 831, 219, 322, 1557, 1093, 203, 1218, 1028, 293, 20, 998, 1447, 932, 1194, 954, 1212, 376, 515, 1275, 402, 851, 1378, 1287, 445, 853, 1283, 497, 991, 661, 1090, 669, 808, 92, 108, 62, 846, 1592, 1290, 1511, 626, 716, 467, 1187, 1490, 143, 346, 391, 1256, 310, 750, 1502, 1086, 86, 66, 1273, 1162, 1263, 1412, 900, 490, 248, 267, 154, 572, 742, 879, 829, 1515, 225, 547, 465, 609, 1185, 173, 1477, 229, 324, 1033, 236, 263, 448, 540, 816, 1520, 1079, 1149, 605, 1143, 1500, 1012, 908, 215, 874, 921, 1306, 522, 470, 1528, 72, 1421, 273, 1494, 1071, 280, 1135, 727, 696, 152, 251, 1588, 689, 421, 1395, 80, 744, 760, 1064, 738, 624, 437, 596, 110, 98, 117, 601, 1392, 1220, 100, 1581, 820, 827, 578, 825, 1198, 1319, 435, 638, 683, 731, 567, 30, 34, 1205, 187, 38, 614, 383, 970, 1060, 897, 1429, 513, 1196, 1082, 944, 1538, 545, 353, 1366, 1001, 1595, 1333, 1386, 1484, 986, 694, 974, 773, 2, 315, 1036, 594, 796, 1506, 590, 1458, 928, 1573, 1456, 747, 1066, 44, 1349, 6, 16, 90, 296, 863, 124, 659, 1376, 1403, 911, 1536, 1340, 525, 1016, 1368, 1192, 740, 201, 199, 685, 980, 181, 592, 1124, 616, 1048, 982, 479, 1508, 411, 286, 171, 916, 753, 379, 1384, 1571, 762, 1005, 455, 502, 1526, 647, 1400, 261, 12, 517, 374, 1018, 1321, 82, 1584, 534, 1473, 64, 1210, 317, 94, 1397, 9, 1482, 1208, 844, 1464, 798, 360, 673, 368, 96, 1141, 1268, 205, 582, 1113, 895, 1590, 341, 1563, 1342, 718, 841, 1138, 680, 1254, 88, 559, 906, 1200, 459, 168, 1062, 177, 28, 818, 492, 1271, 366, 299, 765, 671, 1116, 1586, 36, 330, 14, 433, 603, 1128, 145, 1414, 1298, 231, 0, 1370, 1492, 1285, 18, 889]
+
+Begin simulatedAnnealing with initial Energy 1000 and for 
+Initial solution has an energy of : 47412
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+Try to find a solution
+
+Final solution of Simulated Annealing
+
+Best solution Guard 0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0G0  G0G0    G0  G0G0G0  G0      G0  G0G0  G0  G0  G0G0G0G0    G0  G0G0  G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0    G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XG0  G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  X
+XG0  G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0XXG0G0G0G0G0G0G0G0G0G0    X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0      X
+XG0G0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0XXG0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0X
+X  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0  G0X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0G0G0X
+XG0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0X
+XG0G0G0G0  G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  G0  G0X
+XG0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+XG0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+XG0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0G0G0G0G0G0G0G0G0G0G0G0    X
+X    G0G0  G0G0G0G0G0G0G0    G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0    X
+X  G0G0  G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0  G0  G0  G0G0  G0  G0G0      X
+XG0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0    X
+X      G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0G0        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Final solution of Simulated Annealing
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                      XX                        X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X  XX                                                                            X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                              X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+X                                                                                X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Each path of guard
+[889, 652, 389, 963, 926, 1317, 831, 219, 322, 1557, 1093, 203, 1218, 1028, 293, 20, 998, 1447, 932, 1194, 954, 1212, 376, 515, 1275, 402, 851, 1378, 1287, 445, 853, 1283, 497, 991, 661, 1090, 669, 808, 92, 108, 62, 846, 1592, 1290, 1511, 626, 716, 467, 1187, 1490, 143, 346, 391, 1256, 310, 750, 1502, 1086, 86, 66, 1273, 1162, 1263, 1412, 900, 490, 248, 267, 154, 572, 742, 879, 829, 1515, 225, 547, 465, 609, 1185, 173, 1477, 229, 324, 1033, 236, 263, 448, 540, 816, 1520, 1079, 1149, 605, 1143, 1500, 1012, 908, 215, 874, 921, 1306, 522, 470, 1528, 72, 1421, 273, 1494, 1071, 280, 1135, 727, 696, 152, 251, 1588, 689, 421, 1395, 80, 744, 760, 1064, 738, 624, 437, 596, 110, 98, 117, 601, 1392, 1220, 100, 1581, 820, 827, 578, 825, 1198, 1319, 435, 638, 683, 731, 567, 30, 34, 1205, 187, 38, 614, 383, 970, 1060, 897, 1429, 513, 1196, 1082, 944, 1538, 545, 353, 1366, 1001, 1595, 1333, 1386, 1484, 986, 694, 974, 773, 2, 315, 1036, 594, 796, 1506, 590, 1458, 928, 1573, 1456, 747, 1066, 44, 1349, 6, 16, 90, 296, 863, 124, 659, 1376, 1403, 911, 1536, 1340, 525, 1016, 1368, 1192, 740, 201, 199, 685, 980, 181, 592, 1124, 616, 1048, 982, 479, 1508, 411, 286, 171, 916, 753, 379, 1384, 1571, 762, 1005, 455, 502, 1526, 647, 1400, 261, 12, 517, 374, 1018, 1321, 82, 1584, 534, 1473, 64, 1210, 317, 94, 1397, 9, 1482, 1208, 844, 1464, 798, 360, 673, 368, 96, 1141, 1268, 205, 582, 1113, 895, 1590, 341, 1563, 1342, 718, 841, 1138, 680, 1254, 88, 559, 906, 1200, 459, 168, 1062, 177, 28, 818, 492, 1271, 366, 299, 765, 671, 1116, 1586, 36, 330, 14, 433, 603, 1128, 145, 1414, 1298, 231, 0, 1370, 1492, 1285, 18, 889]
+
+Begin genetic with memory with max generations 100
+Iteration 0 ends with fitness = 4305
+Iteration 1 ends with fitness = 4305
+Iteration 2 ends with fitness = 4305
+Iteration 3 ends with fitness = 4305
+Iteration 4 ends with fitness = 4305
+Iteration 5 ends with fitness = 4305
+Iteration 6 ends with fitness = 4305
+Iteration 7 ends with fitness = 4305
+Iteration 8 ends with fitness = 4305
+Iteration 9 ends with fitness = 4305
+Iteration 10 ends with fitness = 4305
+Iteration 11 ends with fitness = 4305
+Iteration 12 ends with fitness = 4305
+Iteration 13 ends with fitness = 4305
+Iteration 14 ends with fitness = 4305
+Iteration 15 ends with fitness = 4305
+Iteration 16 ends with fitness = 4305
+Iteration 17 ends with fitness = 4305
+Iteration 18 ends with fitness = 4305
+Iteration 19 ends with fitness = 4305
+Iteration 20 ends with fitness = 4305
+Iteration 21 ends with fitness = 4305
+Iteration 22 ends with fitness = 4305
+Iteration 23 ends with fitness = 4305
+Iteration 24 ends with fitness = 4311
+Iteration 25 ends with fitness = 4311
+Iteration 26 ends with fitness = 4311
+Iteration 27 ends with fitness = 4311
+Iteration 28 ends with fitness = 4311
+Iteration 29 ends with fitness = 4194
+Iteration 30 ends with fitness = 4194
+Iteration 31 ends with fitness = 4194
+Iteration 32 ends with fitness = 4194
+Iteration 33 ends with fitness = 4194
+Iteration 34 ends with fitness = 4193
+Iteration 35 ends with fitness = 4193
+Iteration 36 ends with fitness = 4193
+Iteration 37 ends with fitness = 4193
+Iteration 38 ends with fitness = 4193
+Iteration 39 ends with fitness = 4193
+Iteration 40 ends with fitness = 4193
+Iteration 41 ends with fitness = 4193
+Iteration 42 ends with fitness = 4193
+Iteration 43 ends with fitness = 4193
+Iteration 44 ends with fitness = 4193
+Iteration 45 ends with fitness = 4193
+Iteration 46 ends with fitness = 4193
+Iteration 47 ends with fitness = 4193
+Iteration 48 ends with fitness = 4193
+Iteration 49 ends with fitness = 4193
+Iteration 50 ends with fitness = 4193
+Iteration 51 ends with fitness = 4193
+Iteration 52 ends with fitness = 4194
+Iteration 53 ends with fitness = 4194
+Iteration 54 ends with fitness = 4194
+Iteration 55 ends with fitness = 4194
+Iteration 56 ends with fitness = 4194
+Iteration 57 ends with fitness = 4194
+Iteration 58 ends with fitness = 4194
+Iteration 59 ends with fitness = 3603
+Iteration 60 ends with fitness = 3603
+Iteration 61 ends with fitness = 3603
+Iteration 62 ends with fitness = 3603
+Iteration 63 ends with fitness = 3603
+Iteration 64 ends with fitness = 3603
+Iteration 65 ends with fitness = 3603
+Iteration 66 ends with fitness = 3603
+Iteration 67 ends with fitness = 3613
+Iteration 68 ends with fitness = 3613
+Iteration 69 ends with fitness = 3613
+Iteration 70 ends with fitness = 3613
+Iteration 71 ends with fitness = 3613
+Iteration 72 ends with fitness = 3576
+Iteration 73 ends with fitness = 3576
+Iteration 74 ends with fitness = 3576
+Iteration 75 ends with fitness = 3576
+Iteration 76 ends with fitness = 3576
+Iteration 77 ends with fitness = 3576
+Iteration 78 ends with fitness = 3576
